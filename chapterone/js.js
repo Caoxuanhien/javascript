@@ -2,7 +2,7 @@
 // let cần khai bao trước khi sài, ó thể thay đổi giá trị của nó
 
 // let x;
-// x = 10;
+// x = 10;// integer, float, long, double
 // x = 20;
 // console.log(x);
 
@@ -19,3 +19,5 @@ console.log(str1); //result: 19hello
 
 let str2 = "hello" + 9 + 10;
 console.log(str2); //result: hello910
+
+// String method
